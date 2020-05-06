@@ -1,4 +1,4 @@
 # Projetos JavaScript
 
-repositorio java
+repositorio javaScript
  
